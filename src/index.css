@@ -1,0 +1,97 @@
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: 'Oswald', sans-serif;
+}
+h1{
+  font-weight: bold;
+  font-size: 42px;
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 1px;
+ 
+}
+h2{
+  font-family: 'Oswald', sans-serif;
+  font-size: 28px;
+}
+h3{
+  font-family: 'Oswald', sans-serif;
+}
+h4{
+  font-family: 'Oswald', sans-serif;
+}
+
+
+button {
+  font-family: 'Oswald', sans-serif;
+}
+input {
+  font-family: 'Oswald', sans-serif;
+} 
+
+label {
+  font-family: 'Oswald', sans-serif;
+}
+
+* {
+  font-family: 'Oswald', sans-serif;
+}
+
+select {
+  font-family: 'Oswald', sans-serif;
+}
+
+p{
+  font-family: 'Oswald', sans-serif;
+  word-spacing: 2px;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
+#icon {
+  background: red;
+}
+
+.options-container{
+  margin: 0 auto;
+  border-radius: 10px;  
+  padding: 2em 0  1em 0;
+  border: 2px dotted rgb(88, 88, 88);
+  margin-bottom: 2em;
+  
+}
+
+
+.cat-images{
+  border: 1px solid rgb(105, 107, 105);
+  
+}
+
+.left-image-container{
+  border:  2px dotted rgb(92, 92, 92);
+  
+
+}
+

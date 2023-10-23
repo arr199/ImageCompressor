@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Georama
+- Font Author: Copyright 2020 The Georama Project Authors (http://github.com/productiontype/georama)
+- Font Source: http://fonts.gstatic.com/s/georama/v8/MCo_zAn438bIEyxFVaIC0ZMQ72G6xnvmodYVPOBB5nuzMdWs0rsi3QEPxf5wbh3T.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
