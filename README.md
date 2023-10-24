@@ -1,5 +1,8 @@
 # Image compressor  
 An image compression tool that allows you to reduce file sizes without compromising image quality.  
+
+<img  width="50%" src="./public/image-compressor.png"  />
+
 website: https://arr-react-image-compressor.netlify.app/
 
  ### Use ###  
