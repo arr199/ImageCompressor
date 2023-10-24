@@ -11,7 +11,7 @@ An image compression tool that allows you to reduce file sizes without compromis
 - [React](https://react.dev/) - A JavaScript library that allows you to create user interfaces.
 - [TypeScript](https://www.typescriptlang.org/) -  A strongly typed programming language that builds on JavaScript.
 - [Tailwind-css](https://tailwindcss.com/) - A utility-first CSS framework.
-- [compressors](https://github.com/fengyuanchen/cropperjs)  - A JavaScript image compressor library.
+- [compressorjs](https://github.com/fengyuanchen/compressorjs)  - A JavaScript image compressor library.
 - [Vite](https://vitejs.dev/) - A tool that is used for building fast and optimized web applications. 
 
  ### Features ###  
