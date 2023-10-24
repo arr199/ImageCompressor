@@ -15,8 +15,10 @@ An image compression tool that allows you to reduce file sizes without compromis
 
  ### Features ###  
  
- - Click to upload or drag your image.
- - Validations for files other than images.
+ - Users can click to upload the image or just drag and drop the image in the container.
+ - Select properties like width, height, and quality.
+ - Validate the file to determine whether it is an image or not.
+
 
 
 ## Installation
