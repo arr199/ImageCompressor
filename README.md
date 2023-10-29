@@ -14,7 +14,7 @@ An image compression tool that allows you to reduce file sizes without compromis
 - [compressorjs](https://github.com/fengyuanchen/compressorjs)  - A JavaScript image compressor library.
 - [Vite](https://vitejs.dev/) - A tool that is used for building fast and optimized web applications. 
 
- ### Features ###  
+ ## Features 
  
  - Users can click to upload the image or just drag and drop the image in the container.
  - Select properties like width, height, and quality.
