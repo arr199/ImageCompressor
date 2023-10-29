@@ -4,7 +4,7 @@ An image compression tool that allows you to reduce file sizes without compromis
 
 <img  width="50%" src="./public/image-compressor.png"  />
 
-### website: https://arr-react-image-compressor.netlify.app/ ###
+### 🌐 website: https://arr-react-image-compressor.netlify.app/ ###
 
 ## Built with
 
